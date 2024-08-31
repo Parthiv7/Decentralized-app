@@ -1,5 +1,3 @@
-
-
 # To Install and Run the Project
 
 1. start local dfx
